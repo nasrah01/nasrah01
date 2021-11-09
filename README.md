@@ -2,4 +2,4 @@
 - 👀 I’m interested in creating useful applications
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on all dev projects
-- 📫 I'd love to hear from you, email me at nasrah1@hotmail.co.uk
+- 📫 I'd love to hear from you, email me at contact@nasrah.dev
