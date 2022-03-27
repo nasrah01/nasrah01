@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nasrah01
 - 👀 I’m interested in creating useful applications
-- 🌱 currently expanding front-end and back-end stack to include React Node.js Express  
+- 🌱 currently expanding front-end and back-end stack to include React, Redux, Node.js, & Express  
 - 💞️ I’m looking to collaborate on all dev projects
 - 📫 I'd love to hear from you, email me at contact@nasrah.dev
